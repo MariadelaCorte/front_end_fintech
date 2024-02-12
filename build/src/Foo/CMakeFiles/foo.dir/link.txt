@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -dynamiclib -Wl,-headerpad_max_install_names -o ../../libfoo.dylib -install_name @rpath/libfoo.dylib CMakeFiles/foo.dir/foo.cpp.o   -L/usr/local/lib 

@@ -1,0 +1,14 @@
+/Users/mariadelacorte/Desktop/FO/front_end_fintech/build/CMakeFiles/test.dir
+/Users/mariadelacorte/Desktop/FO/front_end_fintech/build/CMakeFiles/edit_cache.dir
+/Users/mariadelacorte/Desktop/FO/front_end_fintech/build/CMakeFiles/rebuild_cache.dir
+/Users/mariadelacorte/Desktop/FO/front_end_fintech/build/src/CMakeFiles/test.dir
+/Users/mariadelacorte/Desktop/FO/front_end_fintech/build/src/CMakeFiles/edit_cache.dir
+/Users/mariadelacorte/Desktop/FO/front_end_fintech/build/src/CMakeFiles/rebuild_cache.dir
+/Users/mariadelacorte/Desktop/FO/front_end_fintech/build/src/Foo/CMakeFiles/foo.dir
+/Users/mariadelacorte/Desktop/FO/front_end_fintech/build/src/Foo/CMakeFiles/test.dir
+/Users/mariadelacorte/Desktop/FO/front_end_fintech/build/src/Foo/CMakeFiles/edit_cache.dir
+/Users/mariadelacorte/Desktop/FO/front_end_fintech/build/src/Foo/CMakeFiles/rebuild_cache.dir
+/Users/mariadelacorte/Desktop/FO/front_end_fintech/build/src/Foo/tests/CMakeFiles/test_foo.dir
+/Users/mariadelacorte/Desktop/FO/front_end_fintech/build/src/Foo/tests/CMakeFiles/test.dir
+/Users/mariadelacorte/Desktop/FO/front_end_fintech/build/src/Foo/tests/CMakeFiles/edit_cache.dir
+/Users/mariadelacorte/Desktop/FO/front_end_fintech/build/src/Foo/tests/CMakeFiles/rebuild_cache.dir
